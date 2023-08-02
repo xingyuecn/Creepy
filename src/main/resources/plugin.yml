@@ -1,0 +1,4 @@
+name: Creepy
+version: '${project.version}'
+main: me.eric.creepy.Creepy
+api-version: 1.19

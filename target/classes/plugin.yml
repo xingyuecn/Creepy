@@ -1,0 +1,4 @@
+name: Creepy
+version: '1.19.2'
+main: me.eric.creepy.Creepy
+api-version: 1.19
